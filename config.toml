@@ -93,13 +93,13 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "About me"
-      #subtitle = "Who will be the winner?"
+      subtitle = "Who will be the winner?"
       #image = "pic1.jpg"
       #url = "blogs/blog1"
 
     #[[params.tiles.showcase]]
-    #title = "How much will 4 nights in Shanghai cost?"
-    #subtitle = "Prediction"
+    title = "How much will 4 nights in Shanghai cost?"
+    subtitle = "Prediction"
     #image = "shanghai2.jpg"
     #url = "blogs/blog2"
 
@@ -175,8 +175,8 @@ disqusShortname = ""
     email = "achushkina.mfa2021@london.edu"
 
     #[[params.contact.phone]]
-    #title = "Phone"
-    #phone = "(000) 000-0000 x1234"
+    title = "Phone"
+    phone = "(777) 61580**"
 
     [[params.contact.address]]
     title = "Address"
