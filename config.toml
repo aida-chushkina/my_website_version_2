@@ -41,7 +41,7 @@ disqusShortname = ""
     subtitle = "By HTML5 Up"
     menu = "Menu"
     #Optional logo as brand stored in img/
-    #logo = "logo.png"
+    logo = "logo.png"
 
     [[params.navigation.links]]
       name = "Home"
@@ -97,17 +97,17 @@ disqusShortname = ""
       image = "pic1.jpg"
       url = "blogs/biog"
 
-    #[[params.tiles.showcase]]
+    [[params.tiles.showcase]]
     title = "How much will 4 nights in Shanghai cost?"
     subtitle = "Prediction"
-    image = "shanghai2.jpg"
+    image = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.finnair.com%2Fdk-en%2Fdestinations%2Fasia-pacific%2Fchina%2Fshanghai&psig=AOvVaw2fPI1odUpo4tvPUBuT4str&ust=1603282971259000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjPnNKUw-wCFQAAAAAdAAAAABAD"
     url = "blogs/shang"
 
-    #[[params.tiles.showcase]]
-     #title = "How many people approve Trump"
-     #subtitle = " "
-     #image = "pic3.jpg"
-     #url = "blogs/blog3"
+    [[params.tiles.showcase]]
+     title = "How many people approve Trump"
+     subtitle = " "
+     image = "pic3.jpg"
+     url = "blogs/trump"
 
     #[[params.tiles.showcase]]
       #title = "COVID-2019"
