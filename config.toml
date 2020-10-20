@@ -40,8 +40,8 @@ disqusShortname = ""
     title = "Aida"
     subtitle = "By HTML5 Up"
     menu = "Menu"
-    # Optional logo as brand stored in img/
-    # logo = "logo.png"
+    #Optional logo as brand stored in img/
+    #logo = "logo.png"
 
     [[params.navigation.links]]
       name = "Home"
@@ -93,15 +93,15 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "About me"
-     # subtitle = "Who will be the winner?"
-      #image = "pic1.jpg"
-      #url = "blogs/blog1"
+     subtitle = "Let's learn more about me!"
+      image = "pic1.jpg"
+      url = "blogs/biog"
 
     #[[params.tiles.showcase]]
-    #title = "How much will 4 nights in Shanghai cost?"
-    #subtitle = "Prediction"
-    #image = "shanghai2.jpg"
-    #url = "blogs/blog2"
+    title = "How much will 4 nights in Shanghai cost?"
+    subtitle = "Prediction"
+    image = "shanghai2.jpg"
+    url = "blogs/shang"
 
     #[[params.tiles.showcase]]
      #title = "How many people approve Trump"
