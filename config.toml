@@ -115,11 +115,11 @@ disqusShortname = ""
       image = "covid.png"
       url = "blogs/covid"
 
-    #[[params.tiles.showcase]]
-      #title = "Consequat"
-      #subtitle = "Ipsum Dolor Sit Amet"
-      #image = "pic05.jpg"
-      #url = "blogs/ipsum"
+    [[params.tiles.showcase]]
+      title = "Curriculum Vitae (CV)"
+      subtitle = "Experience"
+      image = "job.jpg"
+      url = "blogs/CV.pdf"
 
     #[[params.tiles.showcase]]
       #title = "Etiam"
