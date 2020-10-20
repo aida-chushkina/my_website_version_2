@@ -92,28 +92,28 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Trump vs Hilton"
+      title = "About me"
       subtitle = "Who will be the winner?"
-      image = "pic01.jpg"
-      url = "blogs/aliquam"
+      image = "pic1.jpg"
+      url = "blogs/blog1"
 
     #[[params.tiles.showcase]]
-     # title = "Tempus"
-      #subtitle = "Feugiat Amet Tempus"
-      #image = "pic02.jpg"
-      #url = "blogs/tempus"
+    title = "How much will 4 nights in Shanghai cost?"
+    subtitle = "Prediction"
+    image = "shanghai2.jpg"
+    url = "blogs/blog2"
 
     #[[params.tiles.showcase]]
-     # title = "Magna"
-      #subtitle = "Lorem Etiam Nullam"
-      #image = "pic03.jpg"
-      #url = "blogs/magna"
+     title = "How many people approve Trump"
+     subtitle = " "
+     image = "pic3.jpg"
+     url = "blogs/blog3"
 
     #[[params.tiles.showcase]]
-      #title = "Ipsum"
-      #subtitle = "Nisl Sed Aliquam"
-      #image = "pic04.jpg"
-      #url = "blogs/ipsum"
+      title = "COVID-2019"
+      subtitle = ""
+      image = "covid.npg"
+      url = "blogs/blog4"
 
     #[[params.tiles.showcase]]
       #title = "Consequat"
@@ -137,15 +137,15 @@ disqusShortname = ""
 
   # Section Type Two
   [params.two]
-    enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-    buttonText = "Get Started"
-    url = "blogs"
+    #enable = true
+    #title = "Massa libero"
+    #subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
+    #Mauris aliquet magna magna sed nunc rhoncus pharetra. 
+    #Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
+    #Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
+    #Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    #buttonText = "Get Started"
+    #url = "blogs"
 
 
   # Contact section
