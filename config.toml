@@ -93,27 +93,27 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "About me"
-      subtitle = "Who will be the winner?"
-      image = "pic1.jpg"
-      url = "blogs/blog1"
+      #subtitle = "Who will be the winner?"
+      #image = "pic1.jpg"
+      #url = "blogs/blog1"
 
     #[[params.tiles.showcase]]
-    title = "How much will 4 nights in Shanghai cost?"
-    subtitle = "Prediction"
-    image = "shanghai2.jpg"
-    url = "blogs/blog2"
+    #title = "How much will 4 nights in Shanghai cost?"
+    #subtitle = "Prediction"
+    #image = "shanghai2.jpg"
+    #url = "blogs/blog2"
 
     #[[params.tiles.showcase]]
-     title = "How many people approve Trump"
-     subtitle = " "
-     image = "pic3.jpg"
-     url = "blogs/blog3"
+     #title = "How many people approve Trump"
+     #subtitle = " "
+     #image = "pic3.jpg"
+     #url = "blogs/blog3"
 
     #[[params.tiles.showcase]]
-      title = "COVID-2019"
-      subtitle = ""
-      image = "covid.npg"
-      url = "blogs/blog4"
+      #title = "COVID-2019"
+      #subtitle = ""
+      #image = "covid.npg"
+      #url = "blogs/blog4"
 
     #[[params.tiles.showcase]]
       #title = "Consequat"
