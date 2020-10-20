@@ -93,13 +93,13 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "About me"
-      subtitle = "Who will be the winner?"
+     # subtitle = "Who will be the winner?"
       #image = "pic1.jpg"
       #url = "blogs/blog1"
 
     #[[params.tiles.showcase]]
-    title = "How much will 4 nights in Shanghai cost?"
-    subtitle = "Prediction"
+    #title = "How much will 4 nights in Shanghai cost?"
+    #subtitle = "Prediction"
     #image = "shanghai2.jpg"
     #url = "blogs/blog2"
 
