@@ -43,9 +43,9 @@ disqusShortname = ""
     #Optional logo as brand stored in img/
     logo = "logo.png"
 
-    #[[params.navigation.links]]
-      #name = "Home"
-      #url = "#"
+    [[params.navigation.links]]
+      name = "Home"
+      url = "#"
 
     #[[params.navigation.links]]
       #name = "Blogs"
@@ -66,15 +66,15 @@ disqusShortname = ""
     #    name = "NameOfLink"
     #    url = "UrlOfLink"
 
-    # Button Style 1
+    #Button Style 1
     #[[params.navigation.button1]]
      #name = "Get Started"
       #url = "blogs"
 
-    # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+    #Button Style 2
+    #[[params.navigation.button2]]
+      #name = "Log In"
+      #url = "#"
 
 
   # Banner section
