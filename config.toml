@@ -104,7 +104,7 @@ disqusShortname = ""
     url = "blogs/shang"
 
     [[params.tiles.showcase]]
-     title = "How many people approve Trump"
+     title = "How many people approve of Trump"
      subtitle = "Trump vs Hilton"
      image = "pic3.jpg"
      url = "blogs/trump"
