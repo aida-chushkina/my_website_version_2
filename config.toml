@@ -170,11 +170,12 @@ disqusShortname = ""
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
+    
     [[params.contact.email]]
     title = "Email"
     email = "achushkina.mfa2021@london.edu"
-
-    #[[params.contact.phone]]
+    
+    [[params.contact.phone]]
     title = "Phone"
     phone = "(777) 61580**"
 
